@@ -1,6 +1,7 @@
 # Portable Electronic Workplace (PEW!)
 
 ## A portable workplace includes:
+- portable hand trolly + 2 plastic boxes
 - a variety of hand tools
 - a soldering iron
 - a small laboratory power supply
