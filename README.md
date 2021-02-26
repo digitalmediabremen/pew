@@ -20,6 +20,7 @@ If you are interested in borrowing a PEW! write me <r.baecker@hfk-bremen.de> or 
 
 ## Please add the following information to your request:
 - name
+- telephone number 
 - loan period (from when to when do you need the PEW! unit?)
 - tell us in 500 - 1000 characters why and for what you will need the tools
 
