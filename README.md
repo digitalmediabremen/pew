@@ -23,12 +23,12 @@ If you are interested in borrowing a PEW! write me <r.baecker@hfk-bremen.de> or 
 - name
 - telephone number 
 - loan period (from when to when do you need the PEW! unit?)
-- tell us in 500 - 1000 characters why and for what you will need the tools
+- tell us in 500 - 1000 characters why and for what you will need the tools.
 
 ## Rental manifesto:
-- PEW!’s are only for HfK related projects
-- the maximum rental-time is up to 1 month. let us know if you want to extend after the month. If there are more PEW!’s available we can make an exception.
-- take care of the tools! let know if something is damaged so that we can replace it.
+- PEW!’s are only for HfK related projects!
+- the maximum rental-time is up to 1 month (let us know if you want to extend after the month. If there are more PEW!’s available we can make an exception.)
+- take care of the tools! let us know if something is damaged so that we can replace it.
 - please return the unit in the state you have received it (checklist will be available soon)
-- consumables are consumables. (let us know if something is used up)
+- consumables are consumables. (let us know if something is used up!)
 
