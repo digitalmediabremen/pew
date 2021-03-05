@@ -8,7 +8,7 @@
 - Ceramic Capacitors (10pf - 220nf)
 - Perfboard (2x)
 - Arduino Starter Kit
-- Lead Free Solder (
+- Lead Free Solder (Ø0,5mm)
 - Piezos (3x)
 - Mosfets (IRL540, 5x)
 - H-Bridge (L293, 2x)
@@ -16,8 +16,8 @@
 - Springs
 - DC-Motor (1x)
 - braided Wire (thin)
-- braided Wire (thick)
-- solid Core Wire (stiff, uninsulated)
+- braided Wire (thick) 
+- solid Core Wire (stiff, uninsulated, Ø0,4mm, 90 m)
 - Diodes (1N4001, 5x)
 - Header
 - Silicon Hose (for EngineerSS02 Desoldering Pump)
