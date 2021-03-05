@@ -1,6 +1,4 @@
 # Portable Electronic Workplace (PEW!)
-
-Inline-style: 
 ![alt PEW! Trolley](https://raw.githubusercontent.com/digitalmediabremen/pew/main/assets/images/pew_trolly.jpg
  "PEW! Trolley")
 
