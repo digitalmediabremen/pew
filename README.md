@@ -1,5 +1,10 @@
 # Portable Electronic Workplace (PEW!)
 
+Inline-style: 
+![alt PEW! Trolley](https://raw.githubusercontent.com/digitalmediabremen/pew/main/assets/images/pew_trolly.jpg
+ "PEW! Trolley")
+
+
 ## A portable workplace includes:
 - portable hand trolly + 2 plastic boxes
 - a variety of hand tools
