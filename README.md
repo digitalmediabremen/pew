@@ -14,7 +14,7 @@
 - test leads
 - basic electronic components
 - consumables and other cool things.
-- (full parts list will come soon)
+- [full content list of PEW!](content)
 
 ## Rental:
 It can be borrowed for up to 1 month starting the 5th of March. Please consider using ONE workplace as a contact groups (e.g. if you already life together in a WG or share a studio space)
