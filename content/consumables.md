@@ -1,5 +1,9 @@
 # Consumables
 
+Inline-style: 
+![alt Consumables Overview](https://github.com/digitalmediabremen/pew/blob/main/assets/images/pew_consumables_numbers.jpg
+ "Consumables Overview")
+
 - Jumper Wires (male-male)
 - Jumper Wires (female-male)
 - Jumper Wires (females-females)
