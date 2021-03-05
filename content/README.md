@@ -2,4 +2,4 @@
 
 Components:
 * [Tools](tools.md)
-* [Consumables](consumables.md)
+* [Consumables + Arduino Starter Kit](consumables.md)
