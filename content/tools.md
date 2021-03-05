@@ -1,6 +1,6 @@
 # Tools
 
-
+![alt tool_overview](https://raw.githubusercontent.com/digitalmediabremen/pew/main/assets/images/pew_tools_numbers.jpg "Tool Overview")
 
 - Soldering station (Ersa i-CON PICO)
 - Desoldering Pump (Engineer SS-02)
