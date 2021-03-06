@@ -15,4 +15,7 @@
 11) Screwdriver (WIHA 260-30)
 12) Multi crimping Tool (Knipex 97 21 215 B, [Manual](https://www.knipex.de/crimpzangen?v=154931&sku=9721215B))
 13) Digital Calipers (Kunzer 7EMS01, [Manual](https://asset.re-in.de/add/160267/c1/-/de/001297541ML01/AN_Kunzer-7EMS01-Digitaler-Messschieber-150mm.pdf)
+
+14) Anti Static Soldering Mat ( located in the [Consumables](https://github.com/digitalmediabremen/pew/blob/main/content/consumables.md) box )
+
 15) Consumables [Consumables](https://github.com/digitalmediabremen/pew/blob/main/content/consumables.md)
