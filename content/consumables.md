@@ -1,6 +1,6 @@
 # Consumables
 
-![alt Consumables Overview](https://github.com/digitalmediabremen/pew/blob/main/assets/images/pew_consumables_numbers.jpg
+![alt Consumables Overview](https://raw.githubusercontent.com/digitalmediabremen/pew/main/assets/images/pew_consumables_numbers.jpg
  "Consumables Overview")
 
 1) Resistors (10R-1M, 5% accuracy)
@@ -30,5 +30,5 @@ Not Shown) Silicon Hose (for EngineerSS02 Desoldering Pump)
 
 # Arduino Starter Kit
 
-![alt Arduino Starterkit Overview](https://github.com/digitalmediabremen/pew/blob/main/assets/images/pew_elgato_kit_parts.jpg
+![alt Arduino Starterkit Overview](https://raw.githubusercontent.com/digitalmediabremen/pew/main/assets/images/pew_elgato_kit_parts.jpg
  "Arduino Starterkit Overview")
