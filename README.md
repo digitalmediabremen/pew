@@ -26,7 +26,7 @@ If you are interested in borrowing a PEW! write me <r.baecker@hfk-bremen.de> or 
 - name
 - telephone number 
 - loan period (from when to when do you need the PEW! unit?)
-- tell us in 500 - 1000 characters why and for what you will need the tools.
+- tell us in 250 - 500 characters why and for what you will need the tools.
 
 ## Rental manifesto:
 - PEW!’s are only for HfK related projects!
