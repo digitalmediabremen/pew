@@ -16,6 +16,10 @@
 - consumables and other cool things.
 - [full content list](content)
 
+![alt PEW! Trolley](https://raw.githubusercontent.com/digitalmediabremen/pew/main/assets/images/pew_tools2.jpg
+ "PEW! Components")
+
+
 ## Rental:
 It can be borrowed for up to 1 month starting the 5th of March. Please consider using ONE workplace as a contact groups (e.g. if you already life together in a WG or share a studio space)
 
