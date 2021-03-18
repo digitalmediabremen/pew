@@ -23,7 +23,7 @@
 ## Rental:
 It can be borrowed for up to 1 month starting the 5th of March. Please consider using ONE workplace as a contact groups (e.g. if you already life together in a WG or share a studio space)
 
-If you are interested in borrowing a PEW! write me <r.baecker@hfk-bremen.de> or Timo <timojan.johannes@hfk-bremen.de>.
+If you are interested in borrowing a PEW! write Ralf <r.baecker@hfk-bremen.de> or Timo <timojan.johannes@hfk-bremen.de>.
 
 
 ## Please add the following information to your request:
